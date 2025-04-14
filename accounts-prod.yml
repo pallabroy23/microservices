@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to ICICI Bank Accounts related webhook prod APIs"
+  message: "Welcome to ICICI Bank Accounts related webhook production APIs"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}13cba79786a6318ea4075c7deaf0a798670601908a9a7a09b3d9c768c034e27ccefafb1a006986b0db2f2577c4f659f3"
