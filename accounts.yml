@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Axis Bank accounts related docker APIs"
+  message: "Welcome to SBI Bank accounts related docker APIs"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
